@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/unlayereditor",
+    "name": "codica-studio/unlayereditor",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/unlayereditor",
+    "homepage": "https://github.com/codica-studio/unlayereditor",
     "license": "MIT",
     "authors": [
         {
