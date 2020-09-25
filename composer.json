@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/unlayereditor",
+    "name": "codicastudio/unlayer-editor",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/unlayereditor",
+    "homepage": "https://github.com/codicastudio/unlayer-editor",
     "license": "MIT",
     "authors": [
         {
@@ -31,6 +31,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
